@@ -15,7 +15,7 @@ The course provides a broad introduction to machine learning, data mining and st
 
 **2.Unsupervised Learning**
 
-* Clustering (k-means)
+* Clustering (K-means Algorithm)
 * Dimensionality Reduction (PCA)
 * Anomaly Detection (Density Estimation)
 * Recommender Systems (Collaborative Filtering)
@@ -32,6 +32,17 @@ The course provides a broad introduction to machine learning, data mining and st
 
 * Automated Handwritten Digit Recognition (with NN)
 * Spam Email Classification (with SVM)
-* Image Compression (with k-means algorithm)
+* Image Compression (with K-means algorithm)
 * Deminsionality Reduction of Face Image Dataset (with PCA)
 * Movie Recommendation System (with Collaborative Filtering)
+
+# Repository Structure
+
+**ML-ex1:** Linear Regression
+**ML-ex2:** Logistic Regression
+**ML-ex3:** Multi-class Classification and Neural Networks
+**ML-ex4:** Neural Networks Learning
+**ML-ex5:** Regularized Linear Regression and Bias Vs. Variance
+**ML-ex6:** Support Vector Machines
+**ML-ex7:** K-means Clustering and Principal Component Analysis
+**ML-ex8:** Anomaly Detection and Recommender Systems
