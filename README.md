@@ -38,11 +38,11 @@ The course provides a broad introduction to machine learning, data mining and st
 
 # Repository Structure
 
-**ML-ex1:** Linear Regression
-**ML-ex2:** Logistic Regression
-**ML-ex3:** Multi-class Classification and Neural Networks
-**ML-ex4:** Neural Networks Learning
-**ML-ex5:** Regularized Linear Regression and Bias Vs. Variance
-**ML-ex6:** Support Vector Machines
-**ML-ex7:** K-means Clustering and Principal Component Analysis
-**ML-ex8:** Anomaly Detection and Recommender Systems
+* **ML-ex1:** Linear Regression
+* **ML-ex2:** Logistic Regression
+* **ML-ex3:** Multi-class Classification and Neural Networks
+* **ML-ex4:** Neural Networks Learning
+* **ML-ex5:** Regularized Linear Regression and Bias Vs. Variance
+* **ML-ex6:** Support Vector Machines
+* **ML-ex7:** K-means Clustering and Principal Component Analysis
+* **ML-ex8:** Anomaly Detection and Recommender Systems
