@@ -42,11 +42,11 @@ I think it will be very beneficial for anyone who wants to start a ML-related ca
 
 # Repository Structure
 
-* **ML-ex1:** Linear Regression
-* **ML-ex2:** Logistic Regression
-* **ML-ex3:** Multi-class Classification and Neural Networks
-* **ML-ex4:** Neural Networks Learning
-* **ML-ex5:** Regularized Linear Regression and Bias Vs. Variance
-* **ML-ex6:** Support Vector Machines
-* **ML-ex7:** K-means Clustering and Principal Component Analysis
-* **ML-ex8:** Anomaly Detection and Recommender Systems
+* **ML-ex1:** [Linear Regression](https://github.com/hsmirzaie/ML_coursera/tree/master/ML-ex1)
+* **ML-ex2:** [Logistic Regression](https://github.com/hsmirzaie/ML_coursera/tree/master/ML-ex2)
+* **ML-ex3:** [Multi-class Classification and Neural Networks](https://github.com/hsmirzaie/ML_coursera/tree/master/ML-ex3)
+* **ML-ex4:** [Neural Networks Learning](https://github.com/hsmirzaie/ML_coursera/tree/master/ML-ex4)
+* **ML-ex5:** [Regularized Linear Regression and Bias Vs. Variance](https://github.com/hsmirzaie/ML_coursera/tree/master/ML-ex5)
+* **ML-ex6:** [Support Vector Machines](https://github.com/hsmirzaie/ML_coursera/tree/master/ML-ex6)
+* **ML-ex7:** [K-means Clustering and Principal Component Analysis](https://github.com/hsmirzaie/ML_coursera/tree/master/ML-ex7)
+* **ML-ex8:** [Anomaly Detection and Recommender Systems](https://github.com/hsmirzaie/ML_coursera/tree/master/ML-ex8)
