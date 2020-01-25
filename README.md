@@ -1,5 +1,5 @@
 # ML_coursera
-This repository contains all my implementations of programming exercises from Coursera's Machine Learning course taught by Andrew Ng.
+This repository contains all my implementations of programming exercises from Coursera's ***Machine Learning course*** taught by *Andrew Ng*.
 The course provides a broad introduction to machine learning, data mining and statistical pattern recognition.
 
 
