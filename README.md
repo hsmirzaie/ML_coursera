@@ -2,6 +2,10 @@
 This repository contains all my implementations of programming exercises from Coursera's ***Machine Learning course*** taught by *Andrew Ng*.
 The course provides a broad introduction to machine learning, data mining and statistical pattern recognition.
 
+# My Comment
+I think it will be very beneficial for anyone who wants to start a ML-related career to begin with this course. After completing this course, you will understand many fundamental concepts of ML in the right way. Although I think it is essential and useful to know some basic ideas in **Linear Algebra**, **Statistic and Probability**, and **Convex Optimization** for an excellent grasp of the course's main concepts.
+
+
 
 
 # My Learning from the Course
